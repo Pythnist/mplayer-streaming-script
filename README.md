@@ -9,7 +9,7 @@ To create shortcut command for this script and  make this script work globally:
 
 just go to .bashrc or create .bash_aliases file and add followings lines:
 
-alias <SHORTCUT NAME>='PATH/TO/YOUR/FILENAME'
+alias SHORTCUTNAME='PATH/TO/YOUR/FILENAME'
 
 then save it and restart or logout will make above instructions work 
 
